@@ -4,7 +4,7 @@ description: Search the web using Brave Search API and return relevant results f
 metadata:
   require-secret: true
   require-secret-description: Get your free API key at https://brave.com/search/api/
-  homepage: https://github.com/google-ai-edge/gallery/tree/main/skills/featured/brave-search
+  homepage: https://github.com/gotinker/gallery/tree/main/brave-search
 ---
 
 # Brave Web Search
